@@ -1,0 +1,27 @@
+.cards {
+  display: flex;
+  margin-top: 50px;
+  margin-bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  align-content: center;
+  justify-content: space-between;
+}
+
+.card {
+  box-shadow: 2px 4px 10px #E5E6E6;
+  border-radius: 5px;
+  padding: 20px 50px;
+  width: 180px;
+}
+
+.card img {
+  height: 100px;
+  margin: 0 auto;
+  display: block;
+}
+
+.card p, h3{
+  color: black;
+  text-align: center;
+}

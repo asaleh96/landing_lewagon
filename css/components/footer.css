@@ -1,0 +1,25 @@
+.footer {
+  margin-top: 50px;
+  margin-bottom: 80px;
+  margin-left: 0;
+  margin-left: 0;
+  background-color: #2C2B2B;
+  padding: 60px 0;
+  text-align: center;
+}
+
+.footer i {
+  font-size: 40px;
+  color: #FFA500;
+}
+
+.footer-icons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  column-gap: 20px;
+}
+
+.footer p {
+  margin-top: 28px;
+}
